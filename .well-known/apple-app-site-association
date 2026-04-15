@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["2633M77RVP.com.sqaureEnix.portalAppIos"],
+        "paths": ["*"]
+      }
+    ]
+  }
+}
